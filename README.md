@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I am jery Chen 👋
 
-<!--
-**jeryqwq/jeryqwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=jeryqwq" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I’m active in [ <a title="keep parrot"> 🦜 </a>,🎬 , 🎨 , <a title="music" href="https://music.163.com/outchain/player?type=2&id=1831810728&auto=1&height=66" target="_blank">🎧</a> ].
+- 👋 Blog site [Blog](jeryqwq.github.io)
+
+<p align="center">
+ 😄 
+<br/>
+
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+ <br/>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="jeryqwq's Github Stars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryqwq&count_private=true&hide=issues&line_height=24" />
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Tops Language">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeryqwq&layout=compact" />
+ </a>
+</details>
+
