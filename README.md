@@ -1,7 +1,7 @@
 ### Hi there, I am chencc 👋
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=jeryqwq" />
-⚙️ I’m active in [ <a title="keep parrot"> 🦜 </a>,🎬 , 🎨 , <a title="music" href="https://music.163.com/outchain/player?type=2&id=1831810728&auto=1&height=66" target="_blank">🎧</a> ]
+⚙️ I’m active in [ <a title="keep parrot"> 🦜 </a>,🎬 , 🎨 , <a title="music" href="https://music.163.com/outchain/player?type=2&id=1831810728&auto=1&height=66" target="_blank">🎧</a>, 🐶 ]
 <br/>
 👋 <a  target="_blank" href="https://jeryqwq.github.io">My Blog site </a>
 
