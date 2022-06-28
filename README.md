@@ -8,11 +8,11 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
- <a  title="jeryqwq's Github Stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeryqwq&count_private=true&hide=issues&line_height=24" />
+  <a  title="jeryqwq's Github Stars" >
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api?username=jeryqwq&count_private=true&hide=issues&line_height=24" />
  </a>
  <a title="Tops Language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeryqwq&layout=compact" />
+  <img width="41%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeryqwq&layout=compact" />
  </a>
 </details>
 
