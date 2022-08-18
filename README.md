@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=jeryqwq" />
-⚙️ I’m active in [ 👫,<a href="https://zh.m.wikipedia.org/zh-hk/%E8%BE%B9%E5%A2%83%E7%89%A7%E7%BE%8A%E7%8A%AC">🐶</a> , <a href="https://zh.m.wikipedia.org/zh-hk/%E7%8B%B8%E8%8A%B1%E7%8C%AB">🐱</a>, <a title="keep parrot"> 🦜 </a>,🎬 , 🎨 , <a title="music" href="https://music.163.com/outchain/player?type=2&id=1831810728&auto=1&height=66" target="_blank">🎧</a>,🍚 ]
+⚙️ I’m active in [ 👫,<a href="https://zh.m.wikipedia.org/zh-hk/%E8%BE%B9%E5%A2%83%E7%89%A7%E7%BE%8A%E7%8A%AC">🐶</a> , <a href="https://zh.m.wikipedia.org/zh-hk/%E7%8B%B8%E8%8A%B1%E7%8C%AB">🐱</a>, <a title="keep parrot" href="https://baike.baidu.com/item/%E7%8E%84%E5%87%A4%E9%B9%A6%E9%B9%89/2584658?fr=kg_general"> 🦜 </a>,🎬 , 🎨 , <a title="music" href="https://music.163.com/outchain/player?type=2&id=1831810728&auto=1&height=66" target="_blank">🎧</a>,🍚 ]
 <br/>
 👋 <a  target="_blank" href="https://jeryqwq.github.io">My Blog site </a>
 
