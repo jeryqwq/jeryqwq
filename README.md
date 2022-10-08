@@ -26,5 +26,5 @@
 [![](https://img.shields.io/badge/-mongodb-green?logo=mongodb)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-vue-orange?logo=vue.js)](https://cn.vuejs.org/)
 [![](https://img.shields.io/badge/-graphql-red?logo=graphql)](https://graphql.org/)
-
+[![miniapp](https://img.shields.io/badge/wechat-miniapp-blue)](https://mp.weixin.qq.com/) 
 
