@@ -7,10 +7,10 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br/>
   <a  title="jeryqwq's Github Stars" >
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api?username=jeryqwq&count_private=true&hide=issues&line_height=24" />
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api?username=jeryqwq&count_private=true&hide=issues&line_height=25&hide_border=true" />
  </a>
  <a title="Tops Language">
-  <img width="41%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeryqwq&layout=compact" />
+  <img width="41%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeryqwq&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=buefy" />
  </a>
 </details>
 
